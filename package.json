@@ -1,0 +1,23 @@
+{
+  "name": "com.buildwise.core",
+  "version": "0.0.0",
+  "displayName": "Buildwise Core",
+  "description": "Core tools for Buildwise's Unity system",
+  "unity": "2020.3",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": {
+    "com.unity.inputsystem": "1.3.0"
+  },
+  "keywords": [
+    "BIM"
+  ],
+  "author": {
+    "name": "Arnaud Candaele",
+    "email": "arnaud.candaele@buildwise.be",
+    "url": "https://www.buildwise.be"
+  },
+  "type": "library"
+}
